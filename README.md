@@ -59,7 +59,13 @@ https://wokwi.com/projects/463500641205755905
 - Controle não bloqueante
 - Interrupções externas
 - Organização de projetos embarcados
+## Melhoria futura:
+- Elaboração de uma placa de circuito impressa (PCB)
+- buzzer
+- sensor de tráfego
+- dashboard web com python
 ## Autor
 Lucas Fontana Soliman
+
 GitHub:
 https://github.com/lucasfsoliman
