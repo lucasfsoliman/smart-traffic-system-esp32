@@ -61,9 +61,6 @@ https://wokwi.com/projects/463500641205755905
 - Organização de projetos embarcados
 ## Melhoria futura:
 - Elaboração de uma placa de circuito impressa (PCB)
-- buzzer
-- sensor de tráfego
-- dashboard web com python
 ## Autor
 Lucas Fontana Soliman
 
