@@ -61,6 +61,7 @@ https://wokwi.com/projects/463500641205755905
 - Organização de projetos embarcados
 ## Melhoria futura:
 - Elaboração de uma placa de circuito impressa (PCB)
+- Práticas de otimização de memória 
 ## Autor
 Lucas Fontana Soliman
 
